@@ -25,7 +25,7 @@
   - Using static assets
 
 - ADDITIONAL PRACTICE TOPICS
-  - 
+  - understanding sessions, what is a session, and more specifically what is it in the context of sinatra?
 
 # other
 - deploy TODOS manager app to heroku with updated functionality
